@@ -1,0 +1,4 @@
+/home/kakashi/Downloads/CODING_AND_PROJECTS/File Sharing Application/MARK9/CMakeFiles/receiver.dir
+/home/kakashi/Downloads/CODING_AND_PROJECTS/File Sharing Application/MARK9/CMakeFiles/sender.dir
+/home/kakashi/Downloads/CODING_AND_PROJECTS/File Sharing Application/MARK9/CMakeFiles/edit_cache.dir
+/home/kakashi/Downloads/CODING_AND_PROJECTS/File Sharing Application/MARK9/CMakeFiles/rebuild_cache.dir

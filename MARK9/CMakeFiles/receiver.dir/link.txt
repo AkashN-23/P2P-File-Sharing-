@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/receiver.dir/link.d CMakeFiles/receiver.dir/receiver.cpp.o -o receiver  /usr/lib64/libboost_system.so.1.83.0 /usr/lib64/libboost_thread.so.1.83.0

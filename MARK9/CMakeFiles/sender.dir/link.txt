@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/sender.dir/link.d CMakeFiles/sender.dir/sender.cpp.o -o sender  /usr/lib64/libboost_system.so.1.83.0 /usr/lib64/libboost_thread.so.1.83.0
