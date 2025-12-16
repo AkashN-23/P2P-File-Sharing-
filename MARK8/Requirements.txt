@@ -1,0 +1,6 @@
+Required Library 
+gcc-c++ cmake make \
+boost-devel \
+openssl-devel \
+nlohmann-json-devel \
+qt6-qtbase-devel qt6-qtdeclarative-devel

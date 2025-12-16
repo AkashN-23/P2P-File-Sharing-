@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/kakashi/Downloads/CODING_AND_PROJECTS/File Sharing Application/build",
+  "command": "/usr/bin/g++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DBOOST_THREAD_DYN_LINK -DBOOST_THREAD_NO_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib64/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtNetwork -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -g -std=gnu++20 -o CMakeFiles/client.dir/client.cpp.o -c \"/home/kakashi/Downloads/CODING_AND_PROJECTS/File Sharing Application/MARK8/client.cpp\"",
+  "file": "/home/kakashi/Downloads/CODING_AND_PROJECTS/File Sharing Application/MARK8/client.cpp",
+  "output": "CMakeFiles/client.dir/client.cpp.o"
+},
+{
+  "directory": "/home/kakashi/Downloads/CODING_AND_PROJECTS/File Sharing Application/build",
+  "command": "/usr/bin/g++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DBOOST_THREAD_DYN_LINK -DBOOST_THREAD_NO_LIB  -g -std=gnu++20 -o CMakeFiles/server.dir/signal_server.cpp.o -c \"/home/kakashi/Downloads/CODING_AND_PROJECTS/File Sharing Application/MARK8/signal_server.cpp\"",
+  "file": "/home/kakashi/Downloads/CODING_AND_PROJECTS/File Sharing Application/MARK8/signal_server.cpp",
+  "output": "CMakeFiles/server.dir/signal_server.cpp.o"
+}
+]

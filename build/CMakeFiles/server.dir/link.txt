@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -Wl,--dependency-file=CMakeFiles/server.dir/link.d CMakeFiles/server.dir/signal_server.cpp.o -o server  /usr/lib64/libboost_system.so.1.83.0 /usr/lib64/libboost_thread.so.1.83.0

@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/Mark6.dir/link.d CMakeFiles/Mark6.dir/main.cpp.o -o Mark6  /usr/lib64/libQt6Network.so.6.10.1 /usr/lib64/libQt6Widgets.so.6.10.1 /usr/lib64/libssl.so /usr/lib64/libcrypto.so /usr/lib64/libQt6Gui.so.6.10.1 /usr/lib64/libGLX.so /usr/lib64/libOpenGL.so /usr/lib64/libQt6Core.so.6.10.1

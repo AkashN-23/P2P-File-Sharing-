@@ -1,0 +1,4 @@
+/home/kakashi/Downloads/CODING_AND_PROJECTS/File Sharing Application/build/CMakeFiles/client.dir
+/home/kakashi/Downloads/CODING_AND_PROJECTS/File Sharing Application/build/CMakeFiles/server.dir
+/home/kakashi/Downloads/CODING_AND_PROJECTS/File Sharing Application/build/CMakeFiles/edit_cache.dir
+/home/kakashi/Downloads/CODING_AND_PROJECTS/File Sharing Application/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/kakashi/Downloads/CODING_AND_PROJECTS/File Sharing Application/MARK8/build/CMakeFiles/Mark6.dir
+/home/kakashi/Downloads/CODING_AND_PROJECTS/File Sharing Application/MARK8/build/CMakeFiles/edit_cache.dir
+/home/kakashi/Downloads/CODING_AND_PROJECTS/File Sharing Application/MARK8/build/CMakeFiles/rebuild_cache.dir
