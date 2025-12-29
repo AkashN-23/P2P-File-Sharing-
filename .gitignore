@@ -1,0 +1,21 @@
+# Ignore Build Files
+build/
+*.o
+*.exe
+
+# Ignore the Binary Output
+MARK87
+
+# Ignore Distribution Folders & Zips
+MARK87_Ultimate_Edition/
+*.tar.gz
+
+# Ignore Personal Data
+Mark87_Shared/
+Shared/
+
+# Ignore IDE Settings
+.vscode/
+
+# Ignore System Files
+.DS_Store
