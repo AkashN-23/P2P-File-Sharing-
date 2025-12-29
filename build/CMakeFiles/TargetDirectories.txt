@@ -1,0 +1,3 @@
+/home/kakashi/Downloads/CODING_AND_PROJECTS/File_Sharing_Application/MARK87_V4/build/CMakeFiles/Mark87.dir
+/home/kakashi/Downloads/CODING_AND_PROJECTS/File_Sharing_Application/MARK87_V4/build/CMakeFiles/edit_cache.dir
+/home/kakashi/Downloads/CODING_AND_PROJECTS/File_Sharing_Application/MARK87_V4/build/CMakeFiles/rebuild_cache.dir

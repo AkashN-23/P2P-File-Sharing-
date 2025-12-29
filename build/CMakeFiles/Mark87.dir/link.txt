@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/Mark87.dir/link.d CMakeFiles/Mark87.dir/main.cpp.o -o Mark87  /usr/lib64/libboost_system.so.1.83.0
